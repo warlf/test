@@ -2,13 +2,15 @@
  ============================================================================
  Name        : test_c.c
  Author      : wang
- Version     : 1.2S
+ Version     : 1.2
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
 
 #include <stdio.h>
+
+int max();
 
 int main()
 {
