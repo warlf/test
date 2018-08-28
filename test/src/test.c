@@ -1,29 +1,18 @@
 /*
  ============================================================================
- Name        : test_c.c
+ Name        : test.c
  Author      : wang
- Version     : 1.2
+ Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
 
 #include <stdio.h>
-int max();
 
 int main()
 {
-	int a,b,c;
-	scanf ("%d,%d",&a,&b);
-	c=max(a,b);
-	printf ("max=%d",c);
-}
-
-int max(int x,int y)
-{
-	int z;
-	if (x>y)
-		z=x;
-	else z=y;
-	return (z);
+	printf("* * * * * * * * * * * * * * * * * * * *");
+	printf("               Very good!              ");
+	printf("* * * * * * * * * * * * * * * * * * * *");
 }
