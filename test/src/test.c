@@ -2,7 +2,7 @@
  ============================================================================
  Name        : test.c
  Author      : wang
- Version     :
+ Version     : 0.1
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
